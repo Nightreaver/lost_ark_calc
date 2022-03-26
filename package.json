@@ -13,7 +13,7 @@
     "build": "webpack --config webpack.config.prod.js",
     "run:prod": "webpack serve --config webpack.config.prod.js",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@babel/core": "^7.16.12",
