@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Healing Battle Item Chest",
+    "icon": "https://lostarkcodex.com/icons/use_4_202.webp",
+    "priceInCrystals": 25,
+    "amount": 5,
+    "subItems": [
+      {
+        "name": "HP Potion (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_6.webp",
+        "amount": 15
+      },
+      {
+        "name": "Major HP Potion (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_7.webp",
+        "amount": 10
+      },
+      {
+        "name": "Elemental HP Potion (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_8.webp",
+        "amount": 3
+      },
+      {
+        "name": "Panacea (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_17.webp",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Offensive Battle Item Chest",
+    "icon": "https://lostarkcodex.com/icons/use_4_201.webp",
+    "priceInCrystals": 25,
+    "amount": 5,
+    "subItems": [
+      {
+        "name": "Thunder Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_63.webp",
+        "amount": 5
+      },
+      {
+        "name": "Flash Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_0.webp",
+        "amount": 6
+      },
+      {
+        "name": "Flame Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_1.webp",
+        "amount": 6
+      },
+      {
+        "name": "Frost Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_2.webp",
+        "amount": 6
+      },
+      {
+        "name": "Electric Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_3.webp",
+        "amount": 6
+      },
+      {
+        "name": "Dark Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_47.webp",
+        "amount": 6
+      },
+      {
+        "name": "Corrosive Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_49.webp",
+        "amount": 5
+      },
+      {
+        "name": "Whirlwind Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_53.webp",
+        "amount": 6
+      },
+      {
+        "name": "Clay Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_54.webp",
+        "amount": 6
+      },
+      {
+        "name": "Sleep Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_69.webp",
+        "amount": 5
+      },
+      {
+        "name": "Sacred Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_70.webp",
+        "amount": 6
+      },
+      {
+        "name": "Destruction Grenade (Bound)",
+        "icon": "https://lostarkcodex.com/icons/battle_item_01_21.webp",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "Guardian Stone (Bound)",
+    "icon": "https://lostarkcodex.com/icons/use_7_16.webp",
+    "priceInCrystals": 80,
+    "amount": 400
+  }
+]
